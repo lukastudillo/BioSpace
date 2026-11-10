@@ -1,7 +1,6 @@
 # BioSpace - Sistema de Gestión y Simulación Hídrica de Plantas (TEL102)
 
-Aplicación de escritorio local desarrollada en **C++17** con interfaz gráfica en **Qt** para el monitoreo, inventario persistente y simulación de evaporación/humedad de plantas de interior.
-
+Aplicación de escritorio local desarrollada en **C++** con interfaz gráfica en **Qt** para el monitoreo, inventario persistente y simulación de evaporación/humedad de plantas de interior.
 ## Integrantes (Equipo 2)
 * **Felipe Urbina**
 * **Ian Jeria**
