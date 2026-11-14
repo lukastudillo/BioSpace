@@ -1,0 +1,25 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "C:/Users/lukas/OneDrive/Escritorio/BioSpace/gestor_inventario.cpp" "CMakeFiles/BioSpaceConsole.dir/gestor_inventario.cpp.obj" "gcc" "CMakeFiles/BioSpaceConsole.dir/gestor_inventario.cpp.obj.d"
+  "C:/Users/lukas/OneDrive/Escritorio/BioSpace/main.cpp" "CMakeFiles/BioSpaceConsole.dir/main.cpp.obj" "gcc" "CMakeFiles/BioSpaceConsole.dir/main.cpp.obj.d"
+  "C:/Users/lukas/OneDrive/Escritorio/BioSpace/planta.cpp" "CMakeFiles/BioSpaceConsole.dir/planta.cpp.obj" "gcc" "CMakeFiles/BioSpaceConsole.dir/planta.cpp.obj.d"
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")
